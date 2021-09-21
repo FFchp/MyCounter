@@ -1,0 +1,3 @@
+MyCounter	Keyword1
+setTimeSecond	Keyword2
+loop		Keyword3
